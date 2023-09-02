@@ -1,3 +1,4 @@
 # Linux Privilege Escalation
 
-![Capture](https://github.com/Git-K3rnel/OSCP/assets/127470407/649fe5df-b62e-4a78-b1ee-6993f76d14b3)
+
+![Linux Privilege Escalation](https://github.com/Git-K3rnel/OSCP/assets/127470407/357d40ab-6658-480c-8c65-cecbeb65abc9)
