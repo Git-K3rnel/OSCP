@@ -5,6 +5,8 @@
 
 
 ## SMB Relay
+
+#### Prerequisite
 - smb signing must be disabled on the target (by default is disable on client windows and enable on server windows)
 - relayed user credentials must be admin on target machine
 
